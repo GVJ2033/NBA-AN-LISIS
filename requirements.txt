@@ -1,0 +1,4 @@
+streamlit
+pandas
+altair
+nba_api
